@@ -2,10 +2,10 @@
 
 ### Install dependency
 ```shell
-> pip install -r requirements.txt
+ pip install -r requirements.txt
 ```
 
 ### Run Program
 ```shell
-> python ./workbook-to-pdf-converter.py
+ python ./workbook-to-pdf-converter.py
 ```
